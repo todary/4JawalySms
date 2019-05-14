@@ -19,7 +19,7 @@ Then, update `config/app.php` by adding an entry for the service provider.
 ```php
 'providers' => [
 	// ...
-	BTM\JawalbSms\JawalySmsServiceProvider::class
+	BTM\JawalySms\JawalySmsServiceProvider::class
 ];
 ```
 
