@@ -1,0 +1,23 @@
+{
+  "name": "btm/jawalysms",
+  "description": "JawalySms SMS Sender Wrapper Laravel",
+  "keywords": ["JawalySms", "SMS", "Sender", "laravel", "laravel 5"],
+  "type": "library",
+  "require": {
+    "php": ">=5.4.0",
+    "guzzlehttp/guzzle": "^6.2",
+    "illuminate/support": "4.*|5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "BTM\\JawalySms\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "BTM Team"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
