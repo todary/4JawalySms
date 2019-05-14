@@ -13,9 +13,11 @@
       "BTM\\JawalySms\\": "src/"
     }
   },
+   "license": "MIT",
   "authors": [
     {
-      "name": "BTM Team"
+      "name": "Abanob Todary",
+      "email": "abanob.todary@gmail.com"
     }
   ],
   "minimum-stability": "dev",
