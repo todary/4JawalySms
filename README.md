@@ -1,4 +1,4 @@
-# 4JawalySms SMS Sender [4jawalysms.ws](https://www.4jawaly.net/)  Wrapper for Laravel 5
+# 4JawalySms SMS Sender [4jawalysms.ws](https://www.4jawaly.net/)  Wrapper for Laravel
 
 ## Introduction
 ...
