@@ -1,4 +1,4 @@
-# 4JawalySms SMS Sender [jawalbsms.ws](https://www.4jawaly.net/)  Wrapper for Laravel 5
+# 4JawalySms SMS Sender [4jawalysms.ws](https://www.4jawaly.net/)  Wrapper for Laravel 5
 
 ## Introduction
 ...
@@ -29,7 +29,7 @@ Then, register class alias by adding an entry in aliases section
 ```php
 'aliases' => [
 	// ...
-	'jawalysms' => BTM\JawalySms\JawalbSmsFacade::class
+	'jawalysms' => BTM\JawalySms\JawalySmsFacade::class
 ];
 ```
 
